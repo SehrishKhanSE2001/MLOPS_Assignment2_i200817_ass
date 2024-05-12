@@ -1,0 +1,8 @@
+stages:
+  extract_and_transform:
+    cmd: python your_script.py
+    deps:
+    - your_script.py
+    outs:
+    - dawn_processed_data.txt
+    - bbc_processed_data.txt

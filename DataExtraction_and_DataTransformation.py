@@ -85,6 +85,9 @@ print("Processed Dawn Articles:", dawn_articles_processed)
 print("Processed BBC Articles:", bbc_articles_processed)
 
 
+
+
+
 # ---------------------------- STORING THE PROCESSED DATA TO TXT FILES -------------------------------------------------------------
 # Write processed Dawn data to dawn_processed_data.txt
 with open('dawn_processed_data.txt', 'w', encoding='utf-8') as file:
