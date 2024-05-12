@@ -1,0 +1,4 @@
+[core]
+    remote = drive
+['remote "drive"']
+    url = gdrive://drive.google.com/drive/folders/1ySggBxqJpoI-gti2nd3yWDh-FEOyyc0A?usp=drive_link
