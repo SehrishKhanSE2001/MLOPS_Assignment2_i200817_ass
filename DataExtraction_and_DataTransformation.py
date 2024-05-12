@@ -68,7 +68,7 @@ bbc_url = 'https://www.bbc.com/'
 dawn_links = extract_links(dawn_url)
 bbc_links = extract_links(bbc_url)
 
-# Extract titles and descriptions from articles on dawn.com and BBC.com homepages
+# Extract titles and descriptions from articles on dawn.com and BBC.com homepagess
 dawn_articles = extract_article_info(dawn_url)
 bbc_articles = extract_article_info(bbc_url)
 
